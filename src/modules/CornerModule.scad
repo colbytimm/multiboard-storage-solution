@@ -1,5 +1,5 @@
 module TileCornerComponent(offset=[0,0,0], rot=[0,0,0]) {
-  translate(offset) rotate(rot) import("Tile Corner Component.stl");
+  translate(offset) rotate(rot) import("../models/Tile Corner Component.stl");
 }
 
 module CornerConnectorComponent(count=2, step=25, dir=[1,0,0], rot=[0,0,0]) {
