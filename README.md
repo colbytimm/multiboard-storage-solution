@@ -14,7 +14,7 @@ Organisaur is a modular storage solution that provides SCAD and STL files to cre
 
 ### Download Tile Multihole Component
 
-1. Download the `Tile Multihole Component` from [link](https://thangs.com/designer/Multiboard/3d-model/Tile%20Components%20-%20STL%20Multiboard%20Remixing%20Files-994663).
+1. Download the [Tile Multihole Component](https://thangs.com/designer/Multiboard/3d-model/Tile%20Components%20-%20STL%20Multiboard%20Remixing%20Files-994663).
 2. Add file to `src/models` folder.
 
 ### Generate STL files
